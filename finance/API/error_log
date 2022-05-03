@@ -1,0 +1,1 @@
+[30-Apr-2022 15:49:37 America/Boise] PHP Parse error:  syntax error, unexpected variable "$name", expecting "," or ";" in /home1/alexdalg/public_html/finance/API/recordAssetHistory.php on line 15

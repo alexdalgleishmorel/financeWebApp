@@ -1,0 +1,258 @@
+[27-Apr-2022 21:24:45 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 9
+[27-Apr-2022 21:24:45 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 48
+[27-Apr-2022 21:24:45 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:94
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(68): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 94
+[27-Apr-2022 21:27:17 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 9
+[27-Apr-2022 21:27:17 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 48
+[27-Apr-2022 21:27:17 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:94
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 94
+[27-Apr-2022 21:31:19 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 9
+[27-Apr-2022 21:31:19 America/Boise] PHP Warning:  foreach() argument must be of type array|object, string given in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 48
+[27-Apr-2022 21:31:19 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:94
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 94
+[27-Apr-2022 21:34:48 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:98
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 98
+[27-Apr-2022 21:36:04 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:100
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 100
+[27-Apr-2022 21:37:27 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:100
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 100
+[27-Apr-2022 21:38:14 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 101
+[27-Apr-2022 21:38:23 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(72): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 101
+[27-Apr-2022 21:44:28 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(68): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 101
+[27-Apr-2022 21:44:31 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(68): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 101
+[27-Apr-2022 21:52:00 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:105
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(68): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 105
+[27-Apr-2022 21:55:08 America/Boise] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/home.php(68): calculateNetworth('empty', 'empty')
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/calcProfileNetworth.php on line 99
+[28-Apr-2022 09:24:09 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 09:41:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home1/alexdalg/public_html/finance/API/getNetworthData.php:26
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/networthVisualizer.php(5): include()
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 26
+[28-Apr-2022 10:29:33 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:02:07 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:02:48 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:05:09 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:05:45 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:06:33 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:07:26 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:08:22 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 41
+[28-Apr-2022 11:09:41 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:10:12 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:12:19 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:14:04 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:14:50 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:16:15 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:17:26 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:19:04 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:20:11 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:20:56 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:22:21 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:26:04 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:26:39 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:27:49 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:28:34 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:28:55 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:29:48 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[28-Apr-2022 11:34:45 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[29-Apr-2022 18:20:59 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 18:20:59 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 18:20:59 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:04:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:04:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:04:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:04:30 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:06:09 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:06:56 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:08:09 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:08:09 America/Boise] PHP Warning:  Undefined variable $sql in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 12
+[29-Apr-2022 19:08:46 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:10:31 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:10:31 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:10:31 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:11:42 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:12:07 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:12:10 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:12:10 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:12:10 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:24:32 America/Boise] PHP Warning:  Array to string conversion in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 9
+[29-Apr-2022 19:28:39 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:40 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 19:28:44 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:44 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 19:28:44 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:28:44 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[29-Apr-2022 19:28:45 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:28:45 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 19:28:45 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[29-Apr-2022 19:28:45 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/networthVisualizer.php on line 7
+[29-Apr-2022 21:44:44 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[29-Apr-2022 21:45:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 21:45:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 21:45:28 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[29-Apr-2022 23:05:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[29-Apr-2022 23:05:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[29-Apr-2022 23:05:43 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[30-Apr-2022 18:17:08 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:86
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(86): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 86
+[30-Apr-2022 18:18:44 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:86
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(86): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 86
+[30-Apr-2022 18:23:27 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(101): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 101
+[30-Apr-2022 18:25:37 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(101): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 101
+[30-Apr-2022 18:26:46 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(101): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 101
+[30-Apr-2022 18:26:48 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:101
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(101): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 101
+[30-Apr-2022 18:28:54 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[30-Apr-2022 18:29:28 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:100
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(100): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 100
+[30-Apr-2022 18:29:30 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:100
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(100): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 100
+[30-Apr-2022 18:30:19 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[30-Apr-2022 18:31:33 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[30-Apr-2022 18:31:38 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[30-Apr-2022 19:06:18 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getNetworthData.php on line 6
+[30-Apr-2022 19:44:03 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[01-May-2022 12:47:19 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:99
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(99): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 99
+[01-May-2022 13:20:48 America/Boise] PHP Warning:  Undefined array key "averageCost" in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 94
+[01-May-2022 13:29:31 America/Boise] PHP Warning:  include(pythonCaller.php): Failed to open stream: No such file or directory in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:29:31 America/Boise] PHP Warning:  include(): Failed opening 'pythonCaller.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:29:31 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:88
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(88): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 88
+[01-May-2022 13:29:49 America/Boise] PHP Warning:  include(pythonCaller.php): Failed to open stream: No such file or directory in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:29:49 America/Boise] PHP Warning:  include(): Failed opening 'pythonCaller.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:29:49 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:88
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(88): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 88
+[01-May-2022 13:30:01 America/Boise] PHP Warning:  include(pythonCaller.php): Failed to open stream: No such file or directory in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:30:01 America/Boise] PHP Warning:  include(): Failed opening 'pythonCaller.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 5
+[01-May-2022 13:30:01 America/Boise] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home1/alexdalg/public_html/finance/assetVisualizer.php:88
+Stack trace:
+#0 /home1/alexdalg/public_html/finance/assetVisualizer.php(88): json_decode(Array)
+#1 {main}
+  thrown in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 88
+[01-May-2022 14:35:26 America/Boise] PHP Warning:  Undefined array key "totalBookValue" in /home1/alexdalg/public_html/finance/assetVisualizer.php on line 181
+[01-May-2022 14:37:27 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[01-May-2022 14:37:27 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[01-May-2022 14:37:27 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 58
+[01-May-2022 18:15:47 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[01-May-2022 18:15:47 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[01-May-2022 18:15:47 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 59
+[01-May-2022 18:15:48 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[01-May-2022 18:15:48 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[01-May-2022 18:15:48 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 59
+[01-May-2022 19:18:26 America/Boise] PHP Parse error:  syntax error, unexpected token "<" in /home1/alexdalg/public_html/finance/home.php on line 147
+[01-May-2022 19:18:34 America/Boise] PHP Parse error:  syntax error, unexpected token "<" in /home1/alexdalg/public_html/finance/home.php on line 147
+[01-May-2022 19:18:56 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAccounts.php on line 6
+[01-May-2022 19:18:56 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/API/getAssets.php on line 8
+[01-May-2022 19:18:56 America/Boise] PHP Warning:  Undefined array key "username" in /home1/alexdalg/public_html/finance/home.php on line 59
